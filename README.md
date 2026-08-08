@@ -1,6 +1,3 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" width="300" src="https://i.pinimg.com/736x/5b/eb/a9/5beba9f131e4894c03347f85135dac16.jpg"  />
-</div>
 
 <div data-importer="image" align="center">
   <img data-importer="image" width="500" src="https://biscuit.crd.co/assets/images/gallery85/9fb40e2d.gif?v=edffcd2f"  />
