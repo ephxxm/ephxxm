@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" width="300" src="https://media.discordapp.net/attachments/1509922212709138585/1535512718746984538/pony-town--__-_I_N_H_A_B_I_T_E_D_-__--dance-1-a-blinking-padded-4x.gif?ex=6a780928&is=6a76b7a8&hm=ff0203109213d907a12c18ec0182adce792655fcb3f7a3391b684446fa6034f1&="  />
+  <img data-importer="image" width="500" src="https://biscuit.crd.co/assets/images/gallery85/9fb40e2d.gif?v=edffcd2f"  />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@ ${\textsf{\color{#949494} mayo}}$ ⠀ <img src="https://pixels.crd.co/assets/ima
 </div>
 
 <div align="center">
-  <a href="https://en.pronouns.page/@masvvyo">prns</a> ⠀ <img src="https://pixels.crd.co/assets/images/gallery23/8411098b.gif?v=29416114" width="20"> ⠀ <a href="https://sliding.toys/mystic-square/8-puzzle/daily/">ata</a>
+  <a href="https://en.pronouns.page/@masvvyo">prns</a> ⠀ <img src="https://pixels.crd.co/assets/images/gallery23/8411098b.gif?v=29416114" width="20"> ⠀ <a href="https://ephemeral.atabook.org/?page=1">ata</a>
 </div>
 
 
