@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-${\textsf{\color{#949494} mayo}}$ ⠀ <img src="https://pixels.crd.co/assets/images/gallery28/a303c521.gif?v=29416114"> ⠀ ${\textsf{\color{#949494} she ⠀ . ⠀ any}}$
+${\textsf{\color{#949494} mayo ⠀ . ⠀ 18}}$ ⠀ <img src="https://pixels.crd.co/assets/images/gallery28/a303c521.gif?v=29416114"> ⠀ ${\textsf{\color{#949494} she ⠀ . ⠀ any}}$
 
 <div data-importer="image" align="center">
 <img data-importer="image" width= "350" src="https://dividers.crd.co/assets/images/gallery04/1196d7bc.png?v=05d33f91" />
